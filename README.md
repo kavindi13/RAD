@@ -1,0 +1,2 @@
+# RAD
+rad group assignment
